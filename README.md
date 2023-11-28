@@ -2,10 +2,7 @@
 
 ## A collection of guides for and by first-timers
 
-[![GitHub Issues](https://img.shields.io/github/issues/the-ethan-hunt/first-timers-guide.svg?style=flat-square)](https://github.com/the-ethan-hunt/first-timers-guide/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/the-ethan-hunt/first-timers-guide.svg?style=flat-square)](https://github.com/the-ethan-hunt/first-timers-guide/pulls) [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat-square)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-yellow.svg?style=flat-square)](http://www.firsttimersonly.com/)
-[![Forks](https://img.shields.io/github/forks/the-ethan-hunt/first-timers-guide.svg)](https://github.com/the-ethan-hunt/first-timers-guide/network)
-[![Stargazers](https://img.shields.io/github/stars/the-ethan-hunt/first-timers-guide.svg)](https://github.com/the-ethan-hunt/first-timers-guide/stargazers)
+
 
 
 ### Contents
@@ -196,6 +193,5 @@ You may want to take a look at other articles too:
     - [Pyramid](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Pyramid.md)
     - [Semantic Web](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/Web_Frameworks/Semantic_Web.md)
 
-### License
 
-The MIT License 2017 - [Dhruv Apte](http://github.com/the-ethan-hunt/).
+
